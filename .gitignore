@@ -1,4 +1,4 @@
 .vs/
 NetCoreRestApi/.vs/
-NetCoreRestApi/BusinessLayer/bin
-NetCoreRestApi/BusinessLayer/obj
+NetCoreRestApi/BusinessLayer/bin/
+NetCoreRestApi/BusinessLayer/obj/
